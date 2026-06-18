@@ -1,0 +1,36 @@
+Copyright (c) 2026 salxish
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to view,
+read, study, and learn from the source code for educational and academic purposes.
+
+This is a 'see and build' project! Reading, studying, and building upon the
+concepts of this project is encouraged, but direct copies are restricted based
+on the following strict conditions:
+
+1. RESTRICTIONS FOR DIRECT COPIES WITHOUT CREDIT:
+Direct copies of the software WITHOUT explicit credit and attribution to the
+original author are completely forbidden in the following aspects:
+- Any use of the source code, or machine learning models trained directly
+  using this source code, for commercial purposes.
+- Any modification, alteration, or creation of exact source code files based
+  on this repository.
+
+2. ABSOLUTE RESTRICTIONS (WITH OR WITHOUT CREDIT):
+Direct copies of the software, whether credit is provided or not, are strictly
+and completely forbidden in the following aspects:
+- Distribution, sublicensing, or the sale of copies of the software or
+  modified versions of it.
+
+ATTRIBUTION REQUIREMENT:
+To satisfy the requirements of Section 1, any permissible use, reference, or
+conceptual derivation of this work must include the original copyright notice
+and a visible, working link back to this original GitHub repository.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
