@@ -1,0 +1,17 @@
+# created by virtualenv automatically
+# PyCharm Settings
+.idea/
+
+# Python Virtual Environment
+.venv/
+venv/
+
+# Massive Model Weights & Checkpoints
+distilgpt2-medical/
+checkpoint-*/
+*.safetensors
+*.bin
+
+# Operating System Files
+.DS_Store
+Thumbs.db
