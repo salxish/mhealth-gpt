@@ -25,3 +25,5 @@ Modern large language models often focus primarily on internet trends, entertain
  ```bash
 pip install transformers datasets torch accelerate secondary-dependencies scikit-learn evaluate
 ```
+ ## datasets used:
+  gjyotk/[Menstrual-Health-Awareness-Dataset] (https://huggingface.co/datasets/gjyotk/Menstrual-Health-Awareness-Dataset/viewer)   
