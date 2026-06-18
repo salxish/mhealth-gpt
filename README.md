@@ -10,7 +10,7 @@ Modern large language models often focus primarily on internet trends, entertain
  **in a world of Grak (replace the a with another vowel), it's rare to see AI be used for useful, real life applications. let's change that.**
 
  # 🎉 Getting Started
- **reminder**
+ **reminder**  
  This is a 'see and build' project! Reading, studying and building is encouraged, but direct copies **without credit** are forbidden in the following aspects:
    - use of the source code, or models trained using this source code, for commercial purposes.
    - modification, alteration or creation of exact source code.
