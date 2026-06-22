@@ -7,10 +7,12 @@ A Python project using the Hugging Face Trainer API to fine-tune DistilGPT2 on s
 Modern large language models often focus primarily on internet trends, entertainment, or social media engagement. This project was created out of a desire to see AI redirected towards pressing, real-world needs, focusing on underserved areas of medical research/diagnosis and scientific studies:
 - Menstrual Health
 
+### you can view + use the model on [Hugging Face] (https://huggingface.co/salxish/distilgpt2-medical)
+
  **in a world of Grak (replace the a with another vowel), it's rare to see AI be used for useful, real life applications. let's change that.**
 
  # 🎉 Getting Started
- **reminder**
+ **reminder**  
  This is a 'see and build' project! Reading, studying and building is encouraged, but direct copies **without credit** are forbidden in the following aspects:
    - use of the source code, or models trained using this source code, for commercial purposes.
    - modification, alteration or creation of exact source code.
@@ -23,3 +25,5 @@ Modern large language models often focus primarily on internet trends, entertain
  ```bash
 pip install transformers datasets torch accelerate secondary-dependencies scikit-learn evaluate
 ```
+ ## datasets used:
+  gjyotk/[Menstrual-Health-Awareness-Dataset] (https://huggingface.co/datasets/gjyotk/Menstrual-Health-Awareness-Dataset/viewer)   

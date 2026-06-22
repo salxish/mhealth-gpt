@@ -15,3 +15,8 @@ checkpoint-*/
 # Operating System Files
 .DS_Store
 Thumbs.db
+
+# Ignore medical dataset files
+*.csv
+*.xlsx
+*.json
