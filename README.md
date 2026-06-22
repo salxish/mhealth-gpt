@@ -27,3 +27,7 @@ pip install transformers datasets torch accelerate secondary-dependencies scikit
 ```
  ## datasets used:
   gjyotk/[Menstrual-Health-Awareness-Dataset] (https://huggingface.co/datasets/gjyotk/Menstrual-Health-Awareness-Dataset/viewer)   
+  
+  my personal custom medical knowledge graph and symptom hierarchy algorithmically extracted and studied from official [NHS clinical guidance documentation]. (https://www.nhs.uk/symptoms/) 
+  
+  - achieved by the script: [symtrees.py](https://github.com/salxish/mhealth-gpt/blob/main/symtree2.py)
